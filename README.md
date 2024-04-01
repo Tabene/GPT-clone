@@ -1,1 +1,1 @@
-# GPT-clone
+# Snake game
